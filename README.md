@@ -8,14 +8,6 @@ DevOps Engineer focused on automation and cloud technologies for efficiency
 
 ---
 
-## 🔄 DevOps Workflow (Animated Diagram)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/techiescamp/devops-roadmap/main/assets/devops-loop.gif" width="700" alt="DevOps Workflow"/>
-</p>
-
----
-
 ## 🛠 Skills and Tools
 
 <p align="left">
