@@ -1,6 +1,6 @@
 <!--**ranjeetpatil9067/ran<!-- Animated Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhE2l50Tzw9uQWGWp_t8w.gif" width="800"/>
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/3152917/devops.gif" width="850"/>
 </p>
 
 # Hi there 👋, I'm Ranjeet Patil  
